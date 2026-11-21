@@ -1,4 +1,4 @@
-"""Build SOLENNE entry.png from base.png.
+"""Build SOLVANE entry.png from base.png.
 
 Loads the square painterly base image (title already baked in), resizes it
 to exactly 1024x1024, adds a soft vignette and a light film grain, and saves

@@ -1,4 +1,4 @@
-// SOLENNE entry: copy the committed entry.png into the output directory.
+// SOLVANE entry: copy the committed entry.png into the output directory.
 //
 // Guards, all checked before anything is written:
 //   - entry.png must be a PNG or JPEG (magic bytes)
